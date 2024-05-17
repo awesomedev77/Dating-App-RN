@@ -1,28 +1,6 @@
 [<p align="center"><img width="150" src="./images/logo.png"></p>](https://github.com/recraftrelic/recraft-react-native-dating-app)
 
-<h1 align="center">Recraft React native Dating App</h1>
-
-<p align="center">This dating app is a boilerplate for any react native developer who wants to build a dating app. The goal of this boilerplate is to provide a fully functional dating app which can be reused with very little to no modification.</p>
-
-Note
-=======
-
-> You can also get the app on play store https://play.google.com/store/apps/details?id=com.recraftreactnativedatingapp
-
-Documentation
-=======
-
-* [Installation](https://documentation.recraftrelic.com/datingapp/docs/Installation.html)
-* [Run the Project in Development Mode](https://documentation.recraftrelic.com/datingapp/docs/Installation.html)
-* [Folder Structure](https://documentation.recraftrelic.com/datingapp/docs/Folder_Structure/)
-* [Constants](https://documentation.recraftrelic.com/datingapp/docs/Constants/)
-* [Themes](https://documentation.recraftrelic.com/datingapp/docs/Themes/)
-* [Languages](https://documentation.recraftrelic.com/datingapp/docs/Languages/)
-* [Pages](https://documentation.recraftrelic.com/datingapp/docs/Pages/)
-* [Available Hooks](https://documentation.recraftrelic.com/datingapp/docs/Hooks/)
-
-Browse the full documentation on ( [https://documentation.recraftrelic.com/datingapp/docs/Installation/](https://documentation.recraftrelic.com/datingapp/docs/Installation/) )
-
+<h1 align="center">React native Dating App</h1>
 
 IOS Demo
 =======
@@ -84,7 +62,7 @@ Steps to Run the Project in Development Mode
 Use the Below Commands to Clone the project and enter inside the Directory
 After that Install the Dependencies.
 ```
-git clone git@github.com:recraftrelic/recraft-react-native-dating-app.git
+git clone https://github.com/awesomedev77/Dating-App-RN.git
 cd recraft-react-native-dating-app
 yarn install
 ```
@@ -110,15 +88,3 @@ We can directly run the app
 ```
 npx react-native run-android
 ```
-Note
-=======
-
-> Once you clone and if you want to change the name of the application you can follow this article https://medium.com/the-react-native-log/how-to-rename-a-react-native-app-dafd92161c35
-
-Contributors
-=======
-* [awesomedev08](https://github.com/awesomedev08) - Awesome Dev
-
-Sponsors
-=======
-[<img src="http://www.recraftstudio.com/images/logo.png" alt="Recraft Relic Private Limited" width="50"/>](http://www.recraftrelic.com)
